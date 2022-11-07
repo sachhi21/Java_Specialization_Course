@@ -1,2 +1,2 @@
 # Java_Specialization_Course
-University Ofcalifornia San Diego Coursera
+University Of california San Diego Coursera
